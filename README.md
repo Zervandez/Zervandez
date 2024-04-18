@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zervandez
 - 👀 I’m interested in decentralizing everything and empowering the individual
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Flutter & Go
+- 🌱 I’m currently learning Rust 🦀
+- 💞️ I’m looking to collaborate on Flutter &/ Rust
 - 📫 pddq@proton.me
 
 <!---
