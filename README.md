@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zervandez
+- 👋 Hi, I’m Ariel
 - 👀 I’m interested in decentralizing everything and empowering the individual
 - 🌱 I’m currently learning Rust 🦀
 - 💞️ I’m looking to collaborate on Flutter &/ Rust
